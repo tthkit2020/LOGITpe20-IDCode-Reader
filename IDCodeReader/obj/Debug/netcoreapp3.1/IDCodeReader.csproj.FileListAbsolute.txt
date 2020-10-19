@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\IDCodeReader\bin\Debug\netcoreapp3.1\IDCodeReader.exe
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\IDCodeReader\bin\Debug\netcoreapp3.1\IDCodeReader.deps.json
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\IDCodeReader\bin\Debug\netcoreapp3.1\IDCodeReader.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\IDCodeReader\bin\Debug\netcoreapp3.1\IDCodeReader.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\IDCodeReader\bin\Debug\netcoreapp3.1\IDCodeReader.dll
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\IDCodeReader\bin\Debug\netcoreapp3.1\IDCodeReader.pdb
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\IDCodeReader\obj\Debug\netcoreapp3.1\IDCodeReader.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\IDCodeReader\obj\Debug\netcoreapp3.1\IDCodeReader.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\IDCodeReader\obj\Debug\netcoreapp3.1\IDCodeReader.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\IDCodeReader\obj\Debug\netcoreapp3.1\IDCodeReader.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\IDCodeReader\obj\Debug\netcoreapp3.1\IDCodeReader.dll
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\IDCodeReader\obj\Debug\netcoreapp3.1\IDCodeReader.pdb
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\IDCodeReader\obj\Debug\netcoreapp3.1\IDCodeReader.genruntimeconfig.cache
