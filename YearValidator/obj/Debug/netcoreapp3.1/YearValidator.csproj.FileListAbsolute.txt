@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\YearValidator\bin\Debug\netcoreapp3.1\YearValidator.exe
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\YearValidator\bin\Debug\netcoreapp3.1\YearValidator.deps.json
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\YearValidator\bin\Debug\netcoreapp3.1\YearValidator.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\YearValidator\bin\Debug\netcoreapp3.1\YearValidator.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\YearValidator\bin\Debug\netcoreapp3.1\YearValidator.dll
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\YearValidator\bin\Debug\netcoreapp3.1\YearValidator.pdb
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\YearValidator\obj\Debug\netcoreapp3.1\YearValidator.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\YearValidator\obj\Debug\netcoreapp3.1\YearValidator.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\YearValidator\obj\Debug\netcoreapp3.1\YearValidator.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\YearValidator\obj\Debug\netcoreapp3.1\YearValidator.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\YearValidator\obj\Debug\netcoreapp3.1\YearValidator.dll
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\YearValidator\obj\Debug\netcoreapp3.1\YearValidator.pdb
+C:\Users\julia.voronetskaja\source\repos\IDCodeReader\YearValidator\obj\Debug\netcoreapp3.1\YearValidator.genruntimeconfig.cache
