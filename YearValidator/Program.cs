@@ -36,6 +36,16 @@ namespace YearValidator
             }
         }
 
+        public static void CalculateAge(string yearInput)
+        {
+            int year = Int32.Parse(yearInput);
+
+            DateTime now = DateTime.Now;
+            string currentYear = now.Year.ToString();
+            int yearNow = Int32.Parse(currentYear);
+            int age = yearNow - year;
+            Console.WriteLine($"You are {age} years old");
+        }
 
     }
 }

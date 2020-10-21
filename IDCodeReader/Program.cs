@@ -53,5 +53,31 @@ namespace IDCodeReader
             }
         }
 
+        public static int GetYear(string idCode)
+        {
+
+            string yearFromCode = idCode.Substring(1, 2);
+            string year;
+
+            if (int.Parse(idCode[0].ToString()) > 4)
+            {
+                year = "20" + yearFromCode;
+            } else
+            {
+                year = "19" + yearFromCode;
+            }
+
+            Console.WriteLine($"You were born in {year}");
+            int yearParsed = Int32.Parse(year);
+
+            return yearParsed;
+        }
+
+        public static void GetAge(string idCode)
+        {
+            int yearOfBirth = GetYear(idCode);
+
+
+        }
     }
 }
